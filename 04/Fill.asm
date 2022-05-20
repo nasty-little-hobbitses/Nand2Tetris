@@ -42,7 +42,7 @@
 
 // Set the screen to R0 and loop.
 (BLACKEN)
-    @8191
+    @8191 // last address of screen memory map
     D = A
     @R1
     M = D
