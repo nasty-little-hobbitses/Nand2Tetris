@@ -1,4 +1,4 @@
-# Nand2Tetris
+# Nand2Tetris Part I
 Projects related to the Nand2Tetris Part I course available on Coursera
 
 Only Projects 4,5 and 6 are included.
